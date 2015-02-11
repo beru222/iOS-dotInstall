@@ -14,6 +14,7 @@
 		CDC12E221A87ADF600BB2F90 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDC12E201A87ADF600BB2F90 /* LaunchScreen.xib */; };
 		CDC12E2E1A87ADF700BB2F90 /* dotInstallTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC12E2D1A87ADF700BB2F90 /* dotInstallTests.swift */; };
 		CDC12E381A87B97F00BB2F90 /* README in Resources */ = {isa = PBXBuildFile; fileRef = CDC12E371A87B97F00BB2F90 /* README */; };
+		CDC12E3A1A87B9EB00BB2F90 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = CDC12E391A87B9EB00BB2F90 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		CDC12E2C1A87ADF700BB2F90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDC12E2D1A87ADF700BB2F90 /* dotInstallTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dotInstallTests.swift; sourceTree = "<group>"; };
 		CDC12E371A87B97F00BB2F90 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		CDC12E391A87B9EB00BB2F90 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				CDC12E371A87B97F00BB2F90 /* README */,
+				CDC12E391A87B9EB00BB2F90 /* LICENSE */,
 				CDC12E141A87ADF600BB2F90 /* dotInstall */,
 				CDC12E2A1A87ADF700BB2F90 /* dotInstallTests */,
 				CDC12E131A87ADF600BB2F90 /* Products */,
@@ -199,6 +202,7 @@
 				CDC12E1D1A87ADF600BB2F90 /* Main.storyboard in Resources */,
 				CDC12E221A87ADF600BB2F90 /* LaunchScreen.xib in Resources */,
 				CDC12E1F1A87ADF600BB2F90 /* Images.xcassets in Resources */,
+				CDC12E3A1A87B9EB00BB2F90 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
