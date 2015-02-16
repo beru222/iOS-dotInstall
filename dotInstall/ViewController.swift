@@ -10,10 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var myLabel: UILabel!
-    @IBAction func changeLabel(sender: AnyObject) {
-        myLabel.text = "Hello World"
-    }
     @IBAction func unwindToTop(segue: UIStoryboardSegue) {}
 
     override func viewDidLoad() {
